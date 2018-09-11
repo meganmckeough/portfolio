@@ -1,0 +1,114 @@
+body {
+	background-color: black;
+	color: #F7AEF8;
+	text-align: center;
+	font-family: 'Roboto Mono', monospace;
+}
+
+main p {
+	padding: 0 1em;
+}
+
+.hex {
+	color: #FF69B4;
+}
+
+header {
+	text-align: center;
+	border-bottom: 3px solid #9191E9;
+	text-transform: uppercase;
+}
+
+.quote {
+	font-style: italic;
+	color: #52FFEE;
+}
+
+span.feature {
+	font-family: 'Meddon';
+	font-size: 1.2em;
+}
+
+h1 {
+	font-family: 'Kristi', cursive;
+	font-size: 3em;
+	letter-spacing: 0.6em;
+	color: #FF69B4;
+}
+
+h2 {
+	color: #9191E9;
+	letter-spacing: 0.5em;
+	font-size: 1.2em;
+}
+
+h3 {
+	color: #52FFEE;
+	letter-spacing: 0.5em;
+}
+
+
+.social {
+	margin-top: 3em;
+}
+
+.social a {
+	letter-spacing: 0.2em;
+}
+
+a {
+	color: #F7AEF8;
+}
+
+a:hover {
+	background-color: #FF69B4;
+	color: black;
+}
+
+i {
+	padding: 0.5em; 
+}
+
+.project-list {
+	display: flex;
+	justify-content: center;
+	flex-direction: column;
+}
+
+.project {
+	border: solid 1px #F7AEF8;
+	margin: 2em;
+	display: flex;
+}
+
+.project p {
+	text-align: justify;
+	margin: 1em;
+}
+
+.project a {
+	color: #64FFD2;
+}
+
+.project a:hover {
+	background-color: #64FFD2;
+	color: black;
+}
+
+.screenshot {
+	width: 40%;
+	height: 100%;
+	margin: 1em;
+}
+
+footer {
+	background-color: #64FFD2;
+	color: black;
+	font-size: 0.8em;
+}
+
+.crown {
+	width: 2em;
+	margin: 0;
+}
+
