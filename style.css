@@ -76,8 +76,9 @@ i {
 }
 
 .project {
-	border: solid 1px #F7AEF8;
 	margin: 2em;
+	background-image: linear-gradient(#50CCA8, rgba(247,174,248,1));
+	color: black;
 }
 
 h4 {
@@ -94,12 +95,12 @@ h4 {
 }
 
 .project a {
-	color: #64FFD2;
+	color: black;
 }
 
 .project a:hover {
-	background-color: #64FFD2;
-	color: black;
+	background-color: black;
+	color: #64FFD2;
 }
 
 .screenshot {
