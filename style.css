@@ -78,6 +78,13 @@ i {
 .project {
 	border: solid 1px #F7AEF8;
 	margin: 2em;
+}
+
+h4 {
+	text-transform: uppercase;
+}
+
+.content {
 	display: flex;
 }
 
