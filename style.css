@@ -120,3 +120,42 @@ footer {
 	margin: 0;
 }
 
+
+@media screen and (max-device-width: 480px) {
+		
+	h1 {
+		font-size: 3.5em;
+	}
+
+	h2 {
+		font-size: 0.8em;
+	}
+
+	i {
+		margin: 0 1.4em;
+		color: #FF69B4;
+	}
+
+	.crown {
+		width: 10%;
+	}
+
+	.content {
+		flex-direction: column;
+	}
+
+	.screenshot {
+		width: 85%;
+		margin: 0 auto;
+	}
+
+	h4 {
+		font-size: 1.5em;
+	}
+
+	.content a {
+		color: #52FFEE;
+		background-color: black;
+	}
+}
+
